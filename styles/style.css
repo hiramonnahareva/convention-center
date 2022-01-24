@@ -8,16 +8,11 @@ font-family: 'Roboto', sans-serif;
  body{
     font-family: 'Poppins', sans-serif;
     font-size: 20px;
- }
- .carousel-item{
-     height: 100vh;
-     min-height: 300px;
-     
+    font-weight: 800;
  }
  .carousel-item img{
     opacity: .8;
  }
- 
  .carousel-caption{
      position: absolute;
      top:50%;
